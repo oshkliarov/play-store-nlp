@@ -5,3 +5,5 @@ google-play-scraper
 requests
 google-genai
 python-dotenv
+transformers
+torch
